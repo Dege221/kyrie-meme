@@ -9,7 +9,7 @@ body{
 
 .border{
     border: 5px solid white;
-    width: 50%;
+    width: 50%
 }
 
 .poster{
@@ -20,6 +20,11 @@ body{
     background-color: black;
     color: white;
 }
+
+body{
+    background-color: #000;
+}
+
 .stars{
     position: fixed;
     top: 50%;
@@ -40,5 +45,6 @@ body{
         transform: scale(1.5);
     }
 }
+
 
 
